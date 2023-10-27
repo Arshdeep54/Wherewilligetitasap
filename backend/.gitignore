@@ -1,0 +1,6 @@
+authenticate/migrations/000*
+authenticate/__pycache__/
+api/__pycache__/
+authenticate/migrations/__pycache__
+api/migrations/__pycache__
+db.sqlite3
